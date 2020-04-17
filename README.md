@@ -1,5 +1,7 @@
 # 2019_ExchangeRateAnalysis
 Python code for GUI using pyQT5
+![SW_Festival_GUI](https://user-images.githubusercontent.com/58834907/79588913-930fcc00-810f-11ea-90e8-43ef3113ebeb.PNG)
+
 
 개발 목표: 
 ‘Machine Learning을 통해, 최근 환율 데이터를 학습시켜 향후의 환율을 예측한다.’
